@@ -40,16 +40,8 @@ Because apparently humans enjoy turning square footage, bathrooms, and garage si
 ## Project Structure
 
 ```text
-house-price-prediction/
+House-Price-Prediction-Model/
 │
-├── housepricesprediction.ipynb
-├── main.py
+├── Housing.csv
 ├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   └── train.csv
-│
-└── model/
-    └── house_price_model.pkl
+└── housepricesprediction.ipynb
